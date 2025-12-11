@@ -117,11 +117,13 @@ write_enable=YES
  Usuário: ftpuser
  Senha: Senh@123
 ````
-5. Gerenciador de arquivos → Outros locais ftp://IP da máquina 
+- **Teste** 
 
-# Erros comuns :
-## Serviço web
-## Serviço DNS 
-## Serviço sssh 
-## Serviço FTP
+No Gerenciador de arquivos > Outros locais > canto inferior direto > na barra de busca diigite **ftp://zeus.com** ou **ftp://192.168.150.254**
+
+### Problemas e Soluções
+-  **Serviço web**
+- **Serviço DNS** 
+- **Serviço sssh**
+- **Serviço FTP**
 
