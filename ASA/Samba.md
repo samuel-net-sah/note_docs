@@ -62,6 +62,11 @@ sudo mv smb.conf  bkp.smb.conf
 sudo nano smb.conf
 ````
 ### Editando o arquivo smb.conf
+Caminho 
+````
+cd /etc/samba/
+sudo nano smb.conf 
+````
 ```
 [global]
         netbios name = servidorSamba 
@@ -99,7 +104,7 @@ Digite \\IP
 -  crie uma pasta  [Nome pasta]
 
 
-#### Finalizou !!!
+#### Finalizado 
 
 
 
