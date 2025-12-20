@@ -1,7 +1,7 @@
 # Guia de configuração ADDC no samba 
 
 ## Habilitar Adaptador 3 
-- **Configurações > **Rede** > **Placa de os hospedeiro exclusivo (host-only)** 
+- **Configurações** > **Rede** > **Placa de os hospedeiro exclusivo (host-only)** 
 
 ## Instalar o SSH (Na vm ubuntu server)
 ````
