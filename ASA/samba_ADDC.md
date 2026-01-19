@@ -10,7 +10,7 @@ sudo apt install -y openssh-server
 ````
 # Configuração netplan 
 
-````
+````yaml
 network: 
  version: 2 
    ethernet: 
